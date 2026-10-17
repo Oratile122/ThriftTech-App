@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "156530966231",
+    "project_id": "thrifttech",
+    "storage_bucket": "thrifttech.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156530966231:android:6d3633a35115c1dce87a92",
+        "android_client_info": {
+          "package_name": "com.thrifttech.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156530966231-81cjkhnf5ben7khhd9r1j0m32n3gahaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thrifttech.mobile",
+            "certificate_hash": "e46823e3604fa7cf7f2579e928e1c904dde917dd"
+          }
+        },
+        {
+          "client_id": "156530966231-mt3ke86t6hplkl3t8e4a4ed0s50hcc1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFGeCiNZMFm2rQ0e0aOVIB80-4iA69tgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156530966231-mt3ke86t6hplkl3t8e4a4ed0s50hcc1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
